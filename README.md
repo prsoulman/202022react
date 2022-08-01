@@ -19,7 +19,7 @@
 
 ## Usage  💻 
 How does one go about using it?
-- [React Portfolio](URL) will take you to the deployed site on github pages.
+- [React Portfolio]( https://prsoulman.github.io/202022react/) will take you to the deployed site on github pages.
 * Click on the links and create a new message!
 
 
@@ -58,6 +58,8 @@ Run npm init and then npm install where the application was cloned.
 
 ## Links 
 [Github](https://github.com/prsoulman/202022react)
+
+[Github Pages]( https://prsoulman.github.io/202022react/)
 
 
 ## Contact ✉️
