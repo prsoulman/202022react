@@ -1,4 +1,4 @@
-### 202022react
+# **React Portfolio**
 
 
 ## Table of Contents
@@ -63,7 +63,7 @@ Run npm init and then npm install where the application was cloned.
 
 
 ## Contact ✉️
-Find us on Github @ [oconnorjohnson](http://github.com/prsoulman)
+Find us on Github @ [prsoulman](http://github.com/prsoulman)
 * ✉️For questions about this project please contact me @: rodri237@umn.edu
 
 
